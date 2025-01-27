@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HHCorporation</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on HHCorporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>user@example.com (Tasin Tausif)</managingEditor>
+    <webMaster>user@example.com (Tasin Tausif)</webMaster>
+    <copyright>©Tasin Tausif</copyright>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category</title>
+      <link>//localhost:1313/categories/category/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
+      <guid>//localhost:1313/categories/category/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Tags</title>
+      <link>//localhost:1313/categories/tags/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
+      <guid>//localhost:1313/categories/tags/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Zippers</title>
+      <link>//localhost:1313/categories/zippers/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
+      <guid>//localhost:1313/categories/zippers/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+copyright = "©Tasin Tausif"
+baseURL = ''
+languageCode = 'en-us'
+title = 'HHCorporation'
+theme = 'gallery'
+
+[menu]
+
+  [[menu.main]]
+    identifier = 'outsourced'
+    name = 'Outsourced Items'
+    url = '/outsourced/'
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About Us'
+    url = '/about/'
+    weight = 20
+
+[params]
+  defaultTheme = "dark"
+  title = "HH Corporation"
+
+  [params.author]
+    email = "user@example.com"
+    name = "Tasin Tausif"
+
+  [params.socialIcons]
+    facebook = "https://www.facebook.com/"
+    instagram = "https://www.instagram.com/"
+    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    youtube = "https://www.youtube.com/"
+    email = "mailto:user@example.com"
+    #website = "https://example.com"
+    #mastodon = "https://example.com"
+    #pixelfed = "https://example.com"
+    #mixcloud = "https://mixcloud.com"
+
+  [[menu.footer]]
+    name = "Support"
+    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    weight = 3
