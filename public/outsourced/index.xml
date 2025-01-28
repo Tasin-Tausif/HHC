@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HHCorporation</title>
+    <title>Outsourced Items on HHCorporation</title>
     <link>//localhost:1313/outsourced/</link>
-    <description>Recent content on HHCorporation</description>
+    <description>Recent content in Outsourced Items on HHCorporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>user@example.com (Tasin Tausif)</managingEditor>

@@ -9,12 +9,17 @@
     <managingEditor>user@example.com (Tasin Tausif)</managingEditor>
     <webMaster>user@example.com (Tasin Tausif)</webMaster>
     <copyright>©Tasin Tausif</copyright>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Category</title>
-      <link>//localhost:1313/categories/category/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
-      <guid>//localhost:1313/categories/category/</guid><description>&lt;no value&gt;</description></item>
+      <title>Buttons</title>
+      <link>//localhost:1313/categories/buttons/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
+      <guid>//localhost:1313/categories/buttons/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Products</title>
+      <link>//localhost:1313/categories/products/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
+      <guid>//localhost:1313/categories/products/</guid><description>Categories can also have custom titles and descriptions. The description of the Animals category lives in `content/categories/animals/_index.md`.</description></item>
     <item>
       <title>Tags</title>
       <link>//localhost:1313/categories/tags/</link>
@@ -25,5 +30,10 @@
       <link>//localhost:1313/categories/zippers/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
       <guid>//localhost:1313/categories/zippers/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Outsourced</title>
+      <link>//localhost:1313/categories/outsourced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
+      <guid>//localhost:1313/categories/outsourced/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

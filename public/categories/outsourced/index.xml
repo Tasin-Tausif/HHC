@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outsourced on HHCorporation</title>
+    <link>//localhost:1313/categories/outsourced/</link>
+    <description>Recent content in Outsourced on HHCorporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>user@example.com (Tasin Tausif)</managingEditor>
+    <webMaster>user@example.com (Tasin Tausif)</webMaster>
+    <copyright>©Tasin Tausif</copyright><atom:link href="//localhost:1313/categories/outsourced/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outsourced Items</title>
+      <link>//localhost:1313/outsourced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Tasin Tausif)</author>
+      <guid>//localhost:1313/outsourced/</guid><media:content url="//localhost:1313/outsourced/panda_hu_63c19148de381001.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/outsourced/panda_hu_63c19148de381001.jpg&quot; /&gt;
+          &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

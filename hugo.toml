@@ -1,5 +1,10 @@
 copyright = "©Tasin Tausif"
 baseURL = ''
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = true
+timeZone = "Europe/Berlin"
+timeout = "120s"
 languageCode = 'en-us'
 title = 'HHCorporation'
 theme = 'gallery'
@@ -7,16 +12,10 @@ theme = 'gallery'
 [menu]
 
   [[menu.main]]
-    identifier = 'outsourced'
-    name = 'Outsourced Items'
-    url = '/outsourced/'
-    weight = 10
-
-  [[menu.main]]
     identifier = 'about'
     name = 'About Us'
     url = '/about/'
-    weight = 20
+    weight = 10
 
 [params]
   defaultTheme = "dark"
